@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 22 Sep 2025 19:51:34 at https://www.tempooficial.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://www.tempooficial.com.br/ -O1 "C:\Meus Sites\Tempo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:53:59	Warning: 	Moved Permanently for www.tempooficial.com.br/robots.txt
+19:53:59	Warning: 	Redirected link is identical because of 'URL Hack' option: www.tempooficial.com.br/robots.txt and https://www.tempooficial.com.br/robots.txt
+19:53:59	Warning: 	Warning moved treated for www.tempooficial.com.br/robots.txt (real one is https://www.tempooficial.com.br/robots.txt)
+19:53:59	Warning: 	Moved Permanently for www.tempooficial.com.br/feed/
+19:53:59	Warning: 	Redirected link is identical because of 'URL Hack' option: www.tempooficial.com.br/feed/ and https://www.tempooficial.com.br/feed/
+19:53:59	Warning: 	File has moved from www.tempooficial.com.br/feed/ to https://www.tempooficial.com.br/feed/
+19:53:59	Warning: 	Moved Permanently for www.tempooficial.com.br/comments/feed/
+19:53:59	Warning: 	Redirected link is identical because of 'URL Hack' option: www.tempooficial.com.br/comments/feed/ and https://www.tempooficial.com.br/comments/feed/
+19:53:59	Warning: 	File has moved from www.tempooficial.com.br/comments/feed/ to https://www.tempooficial.com.br/comments/feed/
+19:54:56	Warning: 	Moved Permanently for www.tempooficial.com.br/wp-json/
+19:54:56	Warning: 	Redirected link is identical because of 'URL Hack' option: www.tempooficial.com.br/wp-json/ and https://www.tempooficial.com.br/wp-json/
+19:54:56	Warning: 	File has moved from www.tempooficial.com.br/wp-json/ to https://www.tempooficial.com.br/wp-json/
+19:54:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.tempooficial.com.br/wp-json/wp/v2/pages/14 (from https://www.tempooficial.com.br/)
+19:54:56	Error: 	"Forbidden" (403) at link https://www.tempooficial.com.br/xmlrpc.php?rsd (from https://www.tempooficial.com.br/)
+19:54:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.tempooficial.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.tempooficial.com.br%2F (from https://www.tempooficial.com.br/)
+19:54:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.tempooficial.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.tempooficial.com.br%2F&format=xml (from https://www.tempooficial.com.br/)
+19:54:56	Warning: 	Moved Permanently for www.tempooficial.com.br/?wordfence_syncAttackData=1753764903.6117
+19:54:56	Warning: 	Redirected link is identical because of 'URL Hack' option: www.tempooficial.com.br/?wordfence_syncAttackData=1753764903.6117 and https://www.tempooficial.com.br/?wordfence_syncAttackData=1753764903.6117
+19:54:56	Warning: 	File has moved from www.tempooficial.com.br/?wordfence_syncAttackData=1753764903.6117 to https://www.tempooficial.com.br/?wordfence_syncAttackData=1753764903.6117
+19:54:56	Warning: 	Moved Permanently for www.tempooficial.com.br/tempo/
+19:54:56	Warning: 	Redirected link is identical because of 'URL Hack' option: www.tempooficial.com.br/tempo/ and https://www.tempooficial.com.br/tempo/
+19:54:56	Warning: 	File has moved from www.tempooficial.com.br/tempo/ to https://www.tempooficial.com.br/tempo/
+19:54:56	Warning: 	Moved Permanently for www.tempooficial.com.br/solucoes/
+19:54:56	Warning: 	Redirected link is identical because of 'URL Hack' option: www.tempooficial.com.br/solucoes/ and https://www.tempooficial.com.br/solucoes/
+19:54:56	Warning: 	File has moved from www.tempooficial.com.br/solucoes/ to https://www.tempooficial.com.br/solucoes/
+19:54:56	Warning: 	Moved Permanently for www.tempooficial.com.br/contato/
+19:54:56	Warning: 	Redirected link is identical because of 'URL Hack' option: www.tempooficial.com.br/contato/ and https://www.tempooficial.com.br/contato/
+19:54:56	Warning: 	File has moved from www.tempooficial.com.br/contato/ to https://www.tempooficial.com.br/contato/
+19:54:56	Warning: 	Moved Permanently for www.tempooficial.com.br/trabalhe-conosco/
+19:54:56	Warning: 	Redirected link is identical because of 'URL Hack' option: www.tempooficial.com.br/trabalhe-conosco/ and https://www.tempooficial.com.br/trabalhe-conosco/
+19:54:56	Warning: 	File has moved from www.tempooficial.com.br/trabalhe-conosco/ to https://www.tempooficial.com.br/trabalhe-conosco/
+19:54:56	Warning: 	File not parsed, looks like binary: https://www.tempooficial.com.br/wp-content/uploads/2023/10/Selos-Site-2023.webp
+19:54:56	Warning: 	Moved Permanently for www.tempooficial.com.br/politica-de-privacidade/
+19:54:56	Warning: 	Redirected link is identical because of 'URL Hack' option: www.tempooficial.com.br/politica-de-privacidade/ and https://www.tempooficial.com.br/politica-de-privacidade/
+19:54:56	Warning: 	File has moved from www.tempooficial.com.br/politica-de-privacidade/ to https://www.tempooficial.com.br/politica-de-privacidade/
+19:54:58	Warning: 	Retry after error 500 () at link https://www.tempooficial.com.br/wp-json/wp/v2/pages/14 (from https://www.tempooficial.com.br/)
+19:54:58	Warning: 	Retry after error 500 () at link https://www.tempooficial.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.tempooficial.com.br%2F (from https://www.tempooficial.com.br/)
+19:54:58	Warning: 	Retry after error 500 () at link https://www.tempooficial.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.tempooficial.com.br%2F&format=xml (from https://www.tempooficial.com.br/)
+19:54:58	Error: 	"" (500) after 2 retries at link https://www.tempooficial.com.br/wp-json/wp/v2/pages/14 (from https://www.tempooficial.com.br/)
+19:54:58	Error: 	"" (500) after 2 retries at link https://www.tempooficial.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.tempooficial.com.br%2F (from https://www.tempooficial.com.br/)
+19:54:58	Error: 	"" (500) after 2 retries at link https://www.tempooficial.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.tempooficial.com.br%2F&format=xml (from https://www.tempooficial.com.br/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 24 seconds : 118 links scanned, 97 files written (9360163 bytes overall) [8220059 bytes received at 40294 bytes/sec], 1496783 bytes transferred using HTTP compression in 51 files, ratio 20%
+(4 errors, 37 warnings, 0 messages)
